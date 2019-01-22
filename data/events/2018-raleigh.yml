@@ -93,9 +93,9 @@ sponsors:
     level: community
   - id: influxdata
     level: gold
-  - id: sonatype-before-20190121
+  - id: sonatype
     level: gold
-  - id: appdynamics-before-20190121
+  - id: appdynamics
     level: gold
   - id: launch-darkly
     level: gold
